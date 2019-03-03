@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+  padding-top: 10px;
+  background-color: #d0f0f0;
+}
+
+h1 {
+  padding: 10px 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  font-size: 1.3em;
+}
+
+table {
+  text-transform: capitalize;
+}
+
+h1 {
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 20px;
+}
